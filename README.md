@@ -84,7 +84,7 @@ My csgo autoexec cfg, inspired by EliGE
 
 # installation 
 
-copy both `/oursidehastowin` and `autoexec.cfg` into `\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg`
+either run the installation scripts for your operating system or copy both `/ez\_cfg` and `autoexec.cfg` into your counter strike 2 `cfg` directory.
 
 
 the config should run on game launch, if you want to rerun it in game, inputting `exec autoexec.cfg` in console will run the config script.
