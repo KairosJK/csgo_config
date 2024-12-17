@@ -2,6 +2,17 @@
 
 My csgo autoexec cfg, inspired by EliGE
 
+# in-game preview
+
+![cs2 hud preview](https://i.imgur.com/DFn6PNH.jpeg)
+
+# installation 
+
+either run the installation scripts for your operating system or copy both `/ez\_cfg` and `autoexec.cfg` into your counter strike 2 `cfg` directory.
+
+
+the config should run on game launch, if you want to rerun it in game, inputting `exec autoexec.cfg` in console will run the config script.
+
 # binds
 
 ### movement
@@ -81,14 +92,3 @@ My csgo autoexec cfg, inspired by EliGE
 | [pgdn] | mute/vol 0 |
 | [`] | open console |
 | [,] | run autoexec |
-
-# installation 
-
-either run the installation scripts for your operating system or copy both `/ez\_cfg` and `autoexec.cfg` into your counter strike 2 `cfg` directory.
-
-
-the config should run on game launch, if you want to rerun it in game, inputting `exec autoexec.cfg` in console will run the config script.
-
-# in-game preview
-
-![cs2 hud preview](https://i.imgur.com/DFn6PNH.jpeg)
